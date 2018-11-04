@@ -18,3 +18,9 @@ C:\Users\USUARIO\Downloads\Network.Packet.Analyzer\Network.Packet.Analyzer.Core\
 C:\Users\USUARIO\Downloads\Network.Packet.Analyzer\Network.Packet.Analyzer.Core\obj\Debug\Network.Packet.Analyzer.Core.csprojResolveAssemblyReference.cache
 C:\Users\USUARIO\Downloads\Network.Packet.Analyzer\Network.Packet.Analyzer.Core\obj\Debug\Network.Packet.Analyzer.Core.dll
 C:\Users\USUARIO\Downloads\Network.Packet.Analyzer\Network.Packet.Analyzer.Core\obj\Debug\Network.Packet.Analyzer.Core.pdb
+C:\Users\Alex\Documents\3er Semestre\Seminario Redes\Sniffer_Network\Network.Packet.Analyzer.Core\bin\Debug\Network.Packet.Analyzer.Core.dll
+C:\Users\Alex\Documents\3er Semestre\Seminario Redes\Sniffer_Network\Network.Packet.Analyzer.Core\bin\Debug\Network.Packet.Analyzer.Core.pdb
+C:\Users\Alex\Documents\3er Semestre\Seminario Redes\Sniffer_Network\Network.Packet.Analyzer.Core\obj\Debug\Network.Packet.Analyzer.Core.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\3er Semestre\Seminario Redes\Sniffer_Network\Network.Packet.Analyzer.Core\obj\Debug\Network.Packet.Analyzer.Core.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Documents\3er Semestre\Seminario Redes\Sniffer_Network\Network.Packet.Analyzer.Core\obj\Debug\Network.Packet.Analyzer.Core.dll
+C:\Users\Alex\Documents\3er Semestre\Seminario Redes\Sniffer_Network\Network.Packet.Analyzer.Core\obj\Debug\Network.Packet.Analyzer.Core.pdb

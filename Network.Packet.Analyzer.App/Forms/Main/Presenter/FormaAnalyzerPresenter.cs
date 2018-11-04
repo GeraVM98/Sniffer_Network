@@ -415,13 +415,36 @@ namespace Network.Packet.Analyzer.App.Forms.Main.Presenter
 
                                 //_view.TreePackedDetails.ExpandAll();
 
+                                //Program.form.groupBox2.Text = pkgInfo.IP.TypeOfService;
+                                Program.form.label16.Text = "Version: "+pkgInfo.IP.Version;
+                                Program.form.label23.Text = pkgInfo.IP.HeaderLength+" bytes";
+                                Program.form.label1.Text = pkgInfo.IP.TypeOfService;
+                                Program.form.label5.Text = pkgInfo.IP.TotalLength+" bytes";
+                                Program.form.label6.Text = pkgInfo.IP.Identification;
+                                Program.form.label1.Text = pkgInfo.IP.TypeOfService;
+                                Program.form.label8.Text = pkgInfo.IP.TTL;
+                                Program.form.label10.Text = pkgInfo.IP.Checksum;
+                                Program.form.label12.Text = pkgInfo.IP.SourceAddress.ToString().ToUpper();
+                                Program.form.label11.Text = pkgInfo.IP.DestinationAddress.ToString().ToUpper();
+
+                                Program.form.label13.Text = pkgInfo.TCP.SourcePort;
+                                Program.form.label14.Text = pkgInfo.TCP.DestinationPort;
+                                Program.form.label15.Text = pkgInfo.TCP.SequenceNumber;
+                                Program.form.label24.Text = pkgInfo.TCP.AcknowledgementNumber;
+                                Program.form.label25.Text = pkgInfo.TCP.HeaderLength;
+                                Program.form.label27.Text = pkgInfo.TCP.WindowSize;
+                                Program.form.label28.Text = pkgInfo.TCP.Checksum;
+                                Program.form.label26.Text = pkgInfo.TCP.Flags;
+                                Program.form.label29.Text = pkgInfo.TCP.UrgentPointer;
+                            
+
                             } break;
                         case "UDP":
                             {
                                 //_view.TreePackedDetails.Nodes.Clear();
 
-                                Program.form.label17.Text = pkgInfo.IP.SourceAddress.ToString().ToUpper();
-                                Program.form.label2.Text = pkgInfo.IP.DestinationAddress.ToString().ToUpper();
+                                //Program.form.label17.Text = pkgInfo.IP.SourceAddress.ToString().ToUpper();
+                                //Program.form.label2.Text = pkgInfo.IP.DestinationAddress.ToString().ToUpper();
 
                                 TreeNode node = new TreeNode("IP");
                                 node.ForeColor = Color.Green;
